@@ -1,0 +1,3 @@
+lda 1000h
+sta 2000h
+hlt
