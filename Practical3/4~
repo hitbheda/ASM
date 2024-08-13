@@ -1,0 +1,4 @@
+mvi b,96h
+mvi c,43h
+lhld 9643h
+hlt

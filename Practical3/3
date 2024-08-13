@@ -1,0 +1,3 @@
+lda 2050h
+sta 3050h
+hlt
